@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-indigo-300 to-purple-200">
       <Router>
-        <div className="min-h-screen max-w-md sm:max-w-lg md:max-w-2xl xl:max-w-4xl mx-auto">
+        <div className="min-h-screen max-w-md sm:max-w-xl md:max-w-3xl lg:max-w-4xl xl:max-w-5xl py-6 mx-auto">
           <Header />
           <div className="my-4">
             <Routes>
