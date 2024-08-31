@@ -14,7 +14,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-indigo-300 to-purple-200">
+    <div className="min-h-screen bg-gradient-to-b from-indigo-300 via-green-200 to-pink-300">
       <Router>
         <div className="min-h-screen max-w-md sm:max-w-xl md:max-w-3xl lg:max-w-4xl xl:max-w-5xl py-6 mx-auto">
           <Header />
